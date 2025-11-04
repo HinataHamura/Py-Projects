@@ -1,0 +1,10 @@
+Age: 21 years
+Gender: female
+Weight: 55.0 kg
+Height: 162.0 cm
+Daily Serving Intake:
+Vegetables: 1.0 servings
+Fruits: 1.0 servings
+Grains: 1.0 servings
+Meats: 1.0 servings
+Dairy: 1.0 servings

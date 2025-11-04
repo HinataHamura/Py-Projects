@@ -1,0 +1,10 @@
+Age: 45 years
+Gender: male
+Weight: 87.0 kg
+Height: 178.0 cm
+Daily Serving Intake:
+Vegetables: 2.0 servings
+Fruits: 3.0 servings
+Grains: 4.0 servings
+Meats: 2.0 servings
+Dairy: 1.0 servings
